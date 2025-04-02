@@ -1,0 +1,12 @@
+Feature,Cost
+Income,3.0
+DebtToIncome,3.8
+CreditHistory,1.3
+LatePayments,28.4
+Employment,1.0
+CreditLines,1.0
+LoanAmount,0.8
+HomeOwnership,1.0
+Age,0.5
+Savings,1.2
+Education,1.0
